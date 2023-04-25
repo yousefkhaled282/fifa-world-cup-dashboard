@@ -1,0 +1,8 @@
+Minutes,Goals,
+0 - 15,18,Thomas Müller - 2 Goals
+16 - 30,25,Toni Kroos - 2 Goals 
+31 - 45+,22,
+46 - 60,24,
+61 - 75,33,Karim Benzema - 2 Goals
+76 - 90+,41,James Rodríguez - 3 Goals
+

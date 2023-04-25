@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer 
+0 - 15,10,Ademir - 3 Goals
+16 - 30,14,
+31 - 45+,17,Ademir - 2 Goals
+46 - 60,15,Ademir - 3 Goals
+61 - 75,14,Zizinho - 2 Goals
+76 - 90+,18,Telmo Zarra - 2 Goals
+

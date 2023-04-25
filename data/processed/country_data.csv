@@ -1,0 +1,24 @@
+tournament_name,country_name,latitude,longitude,location,score,goals_per_match,games_played,avg_player_age,num_players,hover_text
+1930 FIFA World Cup,Uruguay,-32.8755548,-56.0201525,"-32.8755548,-56.0201525",70,3.8,18.0,24.61,190,Uruguay<br>1930 FIFA World Cup<br>Goals Per Match: 3.8<br>Average Player Age: 24.61<br>Numbers of Players: 190
+1934 FIFA World Cup,Italy,42.6384261,12.674297,"42.6384261,12.674297",70,4.1,17.0,25.93,208,Italy<br>1934 FIFA World Cup<br>Goals Per Match: 4.1<br>Average Player Age: 25.93<br>Numbers of Players: 208
+1938 FIFA World Cup,France,46.603354,1.8883335,"46.603354,1.8883335",84,4.6,18.0,26.32,210,France<br>1938 FIFA World Cup<br>Goals Per Match: 4.6<br>Average Player Age: 26.32<br>Numbers of Players: 210
+1950 FIFA World Cup,Brazil,-10.3333333,-53.2,"-10.3333333,-53.2",88,4,22.0,26.81,191,Brazil<br>1950 FIFA World Cup<br>Goals Per Match: 4<br>Average Player Age: 26.81<br>Numbers of Players: 191
+1954 FIFA World Cup,Switzerland,46.7985624,8.2319736,"46.7985624,8.2319736",140,5.3,26.0,27.24,230,Switzerland<br>1954 FIFA World Cup<br>Goals Per Match: 5.3<br>Average Player Age: 27.24<br>Numbers of Players: 230
+1958 FIFA World Cup,Sweden,59.6749712,14.5208584,"59.6749712,14.5208584",126,3.6,35.0,27.24,246,Sweden<br>1958 FIFA World Cup<br>Goals Per Match: 3.6<br>Average Player Age: 27.24<br>Numbers of Players: 246
+1962 FIFA World Cup,Chile,-31.7613365,-71.3187697,"-31.7613365,-71.3187697",89,2.7,32.0,26.62,249,Chile<br>1962 FIFA World Cup<br>Goals Per Match: 2.7<br>Average Player Age: 26.62<br>Numbers of Players: 249
+1966 FIFA World Cup,England,52.5310214,-1.2649062,"52.5310214,-1.2649062",89,2.7,32.0,26.01,256,England<br>1966 FIFA World Cup<br>Goals Per Match: 2.7<br>Average Player Age: 26.01<br>Numbers of Players: 256
+1970 FIFA World Cup,Mexico,23.6585116,-102.0077097,"23.6585116,-102.0077097",95,2.9,32.0,26.25,273,Mexico<br>1970 FIFA World Cup<br>Goals Per Match: 2.9<br>Average Player Age: 26.25<br>Numbers of Players: 273
+1974 FIFA World Cup,Germany,51.1638175,10.4478313,"51.1638175,10.4478313",97,2.5,38.0,26.38,266,Germany<br>1974 FIFA World Cup<br>Goals Per Match: 2.5<br>Average Player Age: 26.38<br>Numbers of Players: 266
+1978 FIFA World Cup,Argentina,-34.9964963,-64.9672817,"-34.9964963,-64.9672817",102,2.6,38.0,26.7,276,Argentina<br>1978 FIFA World Cup<br>Goals Per Match: 2.6<br>Average Player Age: 26.7<br>Numbers of Players: 276
+1982 FIFA World Cup,Spain,39.3260685,-4.8379791,"39.3260685,-4.8379791",137,2.8,52.0,27.14,408,Spain<br>1982 FIFA World Cup<br>Goals Per Match: 2.8<br>Average Player Age: 27.14<br>Numbers of Players: 408
+1986 FIFA World Cup,Mexico,23.6585116,-102.0077097,"23.6585116,-102.0077097",132,2.5,52.0,27.03,424,Mexico<br>1986 FIFA World Cup<br>Goals Per Match: 2.5<br>Average Player Age: 27.03<br>Numbers of Players: 424
+1990 FIFA World Cup,Italy,42.6384261,12.674297,"42.6384261,12.674297",115,2.2,52.0,27.02,415,Italy<br>1990 FIFA World Cup<br>Goals Per Match: 2.2<br>Average Player Age: 27.02<br>Numbers of Players: 415
+1994 FIFA World Cup,United States,39.7837304,-100.445882,"39.7837304,-100.445882",141,2.7,52.0,27.16,432,United States<br>1994 FIFA World Cup<br>Goals Per Match: 2.7<br>Average Player Age: 27.16<br>Numbers of Players: 432
+1998 FIFA World Cup,France,46.603354,1.8883335,"46.603354,1.8883335",171,2.6,64.0,27.5,587,France<br>1998 FIFA World Cup<br>Goals Per Match: 2.6<br>Average Player Age: 27.5<br>Numbers of Players: 587
+2002 FIFA World Cup,Japan,36.5748441,139.2394179,"36.5748441,139.2394179",71,2.5,64.0,27.28,581,Japan<br>2002 FIFA World Cup<br>Goals Per Match: 2.5<br>Average Player Age: 27.28<br>Numbers of Players: 581
+2002 FIFA World Cup,South Korea,36.638392,127.6961188,"36.638392,127.6961188",90,2.5,64.0,27.28,581,South Korea<br>2002 FIFA World Cup<br>Goals Per Match: 2.5<br>Average Player Age: 27.28<br>Numbers of Players: 581
+2006 FIFA World Cup,Germany,51.1638175,10.4478313,"51.1638175,10.4478313",147,2.3,64.0,27.54,612,Germany<br>2006 FIFA World Cup<br>Goals Per Match: 2.3<br>Average Player Age: 27.54<br>Numbers of Players: 612
+2010 FIFA World Cup,South Africa,-28.8166236,24.991639,"-28.8166236,24.991639",145,2.2,64.0,27.13,612,South Africa<br>2010 FIFA World Cup<br>Goals Per Match: 2.2<br>Average Player Age: 27.13<br>Numbers of Players: 612
+2014 FIFA World Cup,Brazil,-10.3333333,-53.2,"-10.3333333,-53.2",171,2.6,64.0,27.12,624,Brazil<br>2014 FIFA World Cup<br>Goals Per Match: 2.6<br>Average Player Age: 27.12<br>Numbers of Players: 624
+2018 FIFA World Cup,Russia,64.6863136,97.7453061,"64.6863136,97.7453061",169,2.6,64.0,27.61,736,Russia<br>2018 FIFA World Cup<br>Goals Per Match: 2.6<br>Average Player Age: 27.61<br>Numbers of Players: 736
+2022 FIFA World Cup,Qatar,25.3336984,51.2295295,"25.3336984,51.2295295",172,2.6,64.0,26.77,829,Qatar<br>2022 FIFA World Cup<br>Goals Per Match: 2.6<br>Average Player Age: 26.77<br>Numbers of Players: 829

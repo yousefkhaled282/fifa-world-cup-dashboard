@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,20,Hans Schäfer - 2 Goals
+16 - 30,27,Sandor Kocsis - 2 Goals
+31 - 45+,17,Pinga - 2 Goals
+46 - 60,24,Nandor Hidegkuti - 3 Goals
+61 - 75,19,Fritz Walter - 2 Goals
+76 - 90+,29,Helmut Rahn - 3 Goals
+

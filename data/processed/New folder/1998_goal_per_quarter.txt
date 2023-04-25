@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,24,César Sampaio - 2 Goals
+16 - 30,20,
+31 - 45+,26,Davor Suker - 2 Goals
+46 - 60,32,Abdeljalil Hadda - 2 Goals
+61 - 75,24,Marcelo Salas - 2 Goals
+76 - 90+,44,Thierry Henry - 2 Goals
+

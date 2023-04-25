@@ -1,0 +1,8 @@
+Minutes,GoalsBest scorer
+0 - 15,25,Ronaldo - 2 Goals
+16 - 30,19,Miroslav Klose - 3 Goals
+31 - 45+,23,Rivaldo - 2 Goals
+46 - 60,30,Ronaldo - 3 Goals
+61 - 75,30,Rivaldo - 2 Goals
+76 - 90+,31,Fernando Hierro - 2 Goals
+

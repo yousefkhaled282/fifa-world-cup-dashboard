@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer 
+0 - 15,12,Laco Petras - 2 Goals
+16 - 30,14,Gerd Müller - 3 Goals
+31 - 45+,9,
+46 - 60,19,
+61 - 75,16,Teofilo Cubillas - 4 Goals
+76 - 90+,18,Jairzinho - 3 Goals
+

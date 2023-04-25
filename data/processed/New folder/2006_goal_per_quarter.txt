@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,23,Lukas Podolski - 2 Goals
+16 - 30,24,Marco Materazzi - 2 Goals
+31 - 45+,23,
+46 - 60,18,
+61 - 75,12,
+76 - 90+,44,Fernando Torres - 3 Goals
+

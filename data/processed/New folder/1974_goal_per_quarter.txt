@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,13,Johan Neeskens - 3 Goals
+16 - 30,17,René Houseman - 3 Goals
+31 - 45+,15,Andrzej Szarmach - 2 Goals
+46 - 60,15,
+61 - 75,18,Johnny Rep - 2 Goals
+76 - 90+,19,Grzegorz Lato - 2 Goals
+

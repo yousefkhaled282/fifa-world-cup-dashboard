@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,9,Léopold Kielholz - 2 Goals
+16 - 30,16,Langara Galarraga - 2 Goals
+31 - 45+,8,Bernard Voorhoof - 2 Goals
+46 - 60,12,
+61 - 75,12,Edmund Conen - 2 Goals
+76 - 90+,9,Oldrich Nejedly - 2 Goals
+

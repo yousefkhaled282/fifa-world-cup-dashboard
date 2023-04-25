@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,23,Gabriel Batistuta - 2 Goals
+16 - 30,18,Roberto Baggio - 2 Goals
+31 - 45+,24,Gheorghe Hagi - 2 Goals
+46 - 60,23,Romário - 2 Goals
+61 - 75,22,Bebeto - 3 Goals
+76 - 90+,28,Florin Raducioiu - 2 Goals
+

@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,12,Guillermo Stabile - 3 Goals
+16 - 30,9,
+31 - 45+,11,Bart McGhee - 2 Goals
+46 - 60,8,
+61 - 75,17,José Pedro Cea - 2 Goals
+76 - 90+,13,Guillermo Stabile - 2 Goals
+

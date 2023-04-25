@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,21,Cristiano Ronaldo - 2 Goals
+16 - 30,17,
+31 - 45+,27,Denis Cheryshev - 2 Goals
+46 - 60,34,Diego Costa - 2 Goals
+61 - 75,31,Kylian Mbappé - 3 Goals 
+76 - 90+,36,Heung-min Son - 2 Goals
+

@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,14,Helmut Haller - 2 Goals
+16 - 30,13,Eusebio - 2 Goals
+31 - 45+,15,Eusebio - 2 Goals
+46 - 60,11,Ferenc Bene - 3 Goals
+61 - 75,14,Franz Beckenbauer - 2 Goals
+76 - 90+,20,José Torres - 3 Goals
+

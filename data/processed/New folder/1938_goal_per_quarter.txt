@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,13,Gino Colaussi - 2 Goals
+16 - 30,12,Léônidas - 2 Goals
+31 - 45+,14,Gustav Wetterström - 3 Goals
+46 - 60,9,Ernest Wilimowski - 2 Goals 
+61 - 75,12,Léônidas - 2 Goals
+76 - 90+,15,Gyula Zsengeller - 3 Goals
+

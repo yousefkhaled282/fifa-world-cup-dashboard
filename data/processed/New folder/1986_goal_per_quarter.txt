@@ -1,0 +1,7 @@
+Minutes,Goals,Best scorer
+0 - 15,18,Gary Lineker - 2 Goals
+16 - 30,18,Igor Belanov - 2 Goals
+31 - 45+,19,Gary Lineker - 2 Goals
+46 - 60,21,Diego Maradona - 3 Goals
+61 - 75,25,Ivan Yaremchuk - 2 Goals
+76 - 90+,26,Rudi Völler - 2 Goals

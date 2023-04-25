@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,8,
+16 - 30,15,Lothar Matthäus - 2 Goals
+31 - 45+,12,Jürgen Klinsmann - 2 Goals
+46 - 60,19,
+61 - 75,22,Rudi Völler - 2 Goals
+76 - 90+,33,Andreas Brehme - 2 Goals
+

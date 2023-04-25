@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,16,Just Fontaine - 3 Goals
+16 - 30,22,Raymond Kopa - 2 Goals
+31 - 45+,18,Just Fontaine - 2 Goals 
+46 - 60,23,Pelé - 2 Goals
+61 - 75,22,Pelé - 2 Goals
+76 - 90+,24,Just Fontaine - 3 Goals
+

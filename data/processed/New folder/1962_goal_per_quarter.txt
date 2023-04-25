@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,16,Florian Albert - 2 Goals
+16 - 30,14,Milan Galic - 2 Goals
+31 - 45+,9,Garrincha - 2 Goals
+46 - 60,15,Vavá - 2 Goals
+61 - 75,17,Giacomo Bulgarelli - 2 Goals
+76 - 90+,18,Vavá - 2 Goals
+

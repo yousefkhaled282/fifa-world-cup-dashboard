@@ -1,0 +1,14 @@
+SCORE,FREQUENCE
+0 - 0,7 times
+1 - 0,13 times
+1 - 1,5 times
+2 - 0,13 times
+2 - 1,7 times
+2 - 2,3 times
+3 - 0,5 times
+3 - 1,5 times
+3 - 2,1 times
+4 - 0,2 times
+4 - 1,1 times
+4 - 2,1 times
+6 - 0,1 times

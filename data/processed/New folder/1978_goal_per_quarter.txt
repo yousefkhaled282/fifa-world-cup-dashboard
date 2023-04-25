@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,12,
+16 - 30,10,Mario Kempes - 2 Goals
+31 - 45+,29,Robby Rensenbrink - 3 Goals
+46 - 60,14,
+61 - 75,19,Leopoldo Luque - 2 Goals
+76 - 90+,16,Hans Krankl - 2 Goals
+

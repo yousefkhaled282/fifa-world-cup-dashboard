@@ -1,0 +1,7 @@
+Minutes,Goals,Best scorer
+0 - 15,16,
+16 - 30,23,Paolo Rossi - 2 Goals
+31 - 45+,11,Zico - 2 Goals
+46 - 60,27,
+61 - 75,41,Paolo Rossi - 2 Goals
+76 - 90+,24,

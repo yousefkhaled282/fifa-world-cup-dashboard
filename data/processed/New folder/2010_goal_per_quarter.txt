@@ -1,0 +1,8 @@
+Minutes,Goals,Best scorer
+0 - 15,14,
+16 - 30,23,David Villa - 2 Goals
+31 - 45+,22,Gonzalo Higuaín - 2 Goals
+46 - 60,22,Diego Forlán - 2 Goals
+61 - 75,27,Thomas Müller - 3 Goals
+76 - 90+,35,Gonzalo Higuaín - 2 Goals
+

@@ -1,4 +1,5 @@
-# fifa-world-cup-dashboard
+# FIFA World Cup Analysis Dashboard
+This project aims to provide a comprehensive, easy to use analysis of FIFA World Cup.
 dash - plotly
 ![image](https://github.com/yousefkhaled282/fifa-world-cup-dashboard/assets/57260853/e099f96a-7dcb-4932-ad8b-bb8c80bbf5c9)
 ![image](https://github.com/yousefkhaled282/fifa-world-cup-dashboard/assets/57260853/07543130-9345-4813-b409-a4afb25cb643)
